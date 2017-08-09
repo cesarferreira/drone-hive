@@ -1,6 +1,7 @@
 {
+  "name": "cesarferreira/kotlin-pluralizer",
   "description": "Kotlin extension to pluralize and singularize strings",
-  "url": "https://github.com/cesarferreira/kotlin-pluralizer",
+  "homepage": "https://github.com/cesarferreira/kotlin-pluralizer",
   "groupId": "com.github.cesarferreira",
   "artifactId": "kotlin-pluralizer",
   "repository": {
