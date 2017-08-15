@@ -2,8 +2,7 @@
   "name": "cesarferreira/kotlin-pluralizer",
   "description": "Kotlin extension to pluralize and singularize strings",
   "homepage": "https://github.com/cesarferreira/kotlin-pluralizer",
-  "groupId": "com.github.cesarferreira",
-  "artifactId": "kotlin-pluralizer",
+  "dependency": "com.github.cesarferreira:kotlin-pluralizer",
   "repository": {
     "url": "https://jitpack.io",
     "server": "maven"
