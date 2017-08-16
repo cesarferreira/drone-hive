@@ -2,5 +2,8 @@
   "name": "square/retrofit",
   "description": "A type-safe HTTP client for Android and Java",
   "homepage": "http://square.github.io/retrofit/",
-  "dependency": "com.squareup.retrofit2:retrofit"
+  "dependency": "com.squareup.retrofit2:retrofit",
+  "repository": {
+    "server": "jcenter"
+  }
 }

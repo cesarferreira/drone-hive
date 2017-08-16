@@ -1,24 +1,44 @@
 # drone-hive
 > Hive with all of the android drones
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cesarferreira/assets/master/images/screenshot_terminal_hello_world.png" width="100%" />
-</p>
+Companion repository for [drone](https://github.com/cesarferreira/drone)
 
-[![Build Status](https://travis-ci.org/cesarferreira/drone-hive.svg?branch=master)](https://travis-ci.org/cesarferreira/drone-hive)
-[![npm](https://img.shields.io/npm/dt/drone-hive.svg)](https://www.npmjs.com/package/drone-hive)
-[![npm](https://img.shields.io/npm/v/drone-hive.svg)](https://www.npmjs.com/package/drone-hive)
+## How to contribute?
+Use the [drone](https://github.com/cesarferreira/drone) tool.
 
-## Install
+> $ drone create
 
-```sh
-yarn add drone-hive
+and/or
+
+create a file with the **hive/`username/repository`/info.json**
+
+file: **hive/`username/repository`/info.json**
+```json
+{
+  "name": "username/repository",
+  "dependency": "com.username.library:library",
+  "compileType": "compile",
+  "repository": {
+    "server": "jcenter"
+  }
+}
 ```
 
-## Usage
+------------
 
-```js
-// todo
+### Real life example for `retrofit`:
+
+file: **hive/`square/retrofit`/info.json**
+```json
+{
+  "name": "square/retrofit",
+  "description": "A type-safe HTTP client for Android and Java",
+  "homepage": "http://square.github.io/retrofit/",
+  "dependency": "com.squareup.retrofit2:retrofit",
+  "repository": {
+    "server": "jcenter"
+  }
+}
 ```
 
 ## Created by
