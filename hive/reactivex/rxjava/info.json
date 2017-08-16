@@ -2,7 +2,7 @@
   "name": "reactivex/rxjava",
   "description": "Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM",
   "homepage": "https://github.com/ReactiveX/RxJava",
-  "dependency": "https://github.com/ReactiveX/RxJava",
+  "dependency": "io.reactivex.rxjava2:rxjava",
   "compileType": "compile",
   "repository": {
     "server": "jcenter"
