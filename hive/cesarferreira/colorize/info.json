@@ -1,0 +1,10 @@
+{
+  "name": "cesarferreira/colorize",
+  "description": "Access to 1000+ colors on android!",
+  "homepage": "https://github.com/cesarferreira/colorize",
+  "dependency": "com.cesarferreira.colorize:library",
+  "compileType": "compile",
+  "repository": {
+    "server": "jcenter"
+  }
+}
