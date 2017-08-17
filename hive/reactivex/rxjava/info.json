@@ -5,6 +5,6 @@
   "dependency": "io.reactivex.rxjava:rxjava",
   "compileType": "compile",
   "repository": {
-    "server": "jcenter"
+    "server": "maven"
   }
 }
