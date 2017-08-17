@@ -1,0 +1,11 @@
+{
+  "name": "cesarferreira/rxpaper",
+  "description": "Reactive extension for NoSQL data storage on Android",
+  "homepage": "https://github.com/cesarferreira/RxPaper",
+  "dependency": "com.cesarferreira.rxpaper:rxpaper",
+  "compileType": "compile",
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  }
+}
