@@ -1,0 +1,18 @@
+{
+	"name": "google/dagger",
+	"description": "A fast dependency injector for Android and Java",
+	"homepage": "https://github.com/google/dagger",
+	"dependencies": [
+		{
+			"dependency": "com.google.dagger:dagger",
+			"compileType": "compile"
+		},
+		{
+			"dependency": "com.google.dagger:dagger-compiler",
+			"compileType": "apt"
+		}
+	],
+	"repository": {
+		"server": "jcenter"
+	}
+}
