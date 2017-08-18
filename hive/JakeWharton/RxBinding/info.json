@@ -1,10 +1,14 @@
 {
-  "name": "JakeWharton/RxBinding",
-  "description": "RxJava binding APIs for Android's UI widgets.",
-  "homepage": "https://github.com/JakeWharton/RxBinding",
-  "dependency": "com.jakewharton.rxbinding2:rxbinding",
-  "compileType": "compile",
-  "repository": {
-    "server": "jcenter"
-  }
+	"name": "JakeWharton/RxBinding",
+	"description": "RxJava binding APIs for Android's UI widgets.",
+	"homepage": "https://github.com/JakeWharton/RxBinding",
+	"dependencies": [
+		{
+			"dependency": "com.jakewharton.rxbinding2:rxbinding",
+			"compileType": "compile"
+		}
+	],
+	"repository": {
+		"server": "jcenter"
+	}
 }

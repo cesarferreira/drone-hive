@@ -1,10 +1,14 @@
 {
-  "name": "cesarferreira/jsonify",
-  "description": "Convert any Java object to JSON for easier debugging",
-  "homepage": "https://github.com/cesarferreira/jsonify",
-  "dependency": "com.cesarferreira.jsonify:jsonify",
-  "compileType": "compile",
-  "repository": {
-    "server": "jcenter"
-  }
+	"name": "cesarferreira/jsonify",
+	"description": "Convert any Java object to JSON for easier debugging",
+	"homepage": "https://github.com/cesarferreira/jsonify",
+	"dependencies": [
+		{
+			"dependency": "com.cesarferreira.jsonify:jsonify",
+			"compileType": "compile"
+		}
+	],
+	"repository": {
+		"server": "jcenter"
+	}
 }
