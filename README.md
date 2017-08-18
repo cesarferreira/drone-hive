@@ -10,14 +10,17 @@ Use the [drone](https://github.com/cesarferreira/drone) tool.
 
 and/or
 
-create a file with the **hive/`username/repository`/info.json**
+create a file with the **hive/`username/repository`.json**
 
-file: **hive/`username/repository`/info.json**
+file: **hive/`username/repository`.json**
 ```json
 {
   "name": "username/repository",
-  "dependency": "com.username.library:library",
-  "compileType": "compile",
+  "dependencies": [
+		{
+      "dependency": "com.username.library:library",
+      "compileType": "compile"
+    }],
   "repository": {
     "server": "jcenter"
   }
@@ -28,16 +31,21 @@ file: **hive/`username/repository`/info.json**
 
 ### Real life example for `retrofit`:
 
-file: **hive/`square/retrofit`/info.json**
+file: **hive/`square/retrofit`.json**
 ```json
 {
-  "name": "square/retrofit",
-  "description": "A type-safe HTTP client for Android and Java",
-  "homepage": "http://square.github.io/retrofit/",
-  "dependency": "com.squareup.retrofit2:retrofit",
-  "repository": {
-    "server": "jcenter"
-  }
+	"name": "square/retrofit",
+	"description": "A type-safe HTTP client for Android and Java",
+	"homepage": "http://square.github.io/retrofit/",
+	"dependencies": [
+		{
+			"dependency": "com.squareup.retrofit2:retrofit",
+			"compileType": "compile"
+		}
+	],
+	"repository": {
+		"server": "jcenter"
+	}
 }
 ```
 
