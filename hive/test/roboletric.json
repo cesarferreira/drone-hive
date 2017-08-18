@@ -1,0 +1,14 @@
+{
+  "name": "test/roboletric",
+  "description": "Android Unit Testing Framework",
+  "homepage": "https://github.com/robolectric/robolectric",
+  "dependencies": [
+    {
+      "dependency": "org.robolectric:robolectric",
+      "compileType": "testCompile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
