@@ -1,18 +1,23 @@
 {
-  "name": "jakewharton/butterknife",
-  "description": "Bind Android views and callbacks to fields and methods.",
-  "homepage": "https://github.com/JakeWharton/butterknife",
-  "dependencies": [
-    {
-      "dependency": "com.jakewharton:butterknife",
-      "compileType": "compile"
-    },
-    {
-      "dependency": "com.jakewharton:butterknife-compiler",
-      "compileType": "annotationProcessor"
-    }
-  ],
-  "repository": {
-    "server": "jcenter"
-  }
+	"name": "jakewharton/butterknife",
+	"description": "Bind Android views and callbacks to fields and methods.",
+	"homepage": "https://github.com/JakeWharton/butterknife",
+	"dependencies": [
+		{
+			"dependency": "com.jakewharton:butterknife",
+			"compileType": "compile"
+		},
+		{
+			"dependency": "com.jakewharton:butterknife-compiler",
+			"compileType": "annotationProcessor"
+		}
+	],
+	"plugins": [
+		{
+			"apply": "com.jakewharton.butterknife"
+		}
+	],
+	"repository": {
+		"server": "jcenter"
+	}
 }
