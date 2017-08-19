@@ -1,0 +1,14 @@
+{
+  "name": "test/espresso",
+  "description": " provides APIs for writing UI tests to simulate user interactions within a single target app",
+  "homepage": "https://developer.android.com/training/testing/ui-testing/espresso-testing.html",
+  "dependencies": [
+    {
+      "dependency": "com.android.support.test.espresso:espresso-core",
+      "compileType": "androidTestCompile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
