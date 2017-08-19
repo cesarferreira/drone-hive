@@ -1,0 +1,15 @@
+{
+  "name": "tinsukE/icekick",
+  "description": "Android Instance State made easy for Kotlin",
+  "homepage": "https://github.com/tinsukE/icekick",
+  "dependencies": [
+    {
+      "dependency": "com.github.tinsukE:icekick",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  }
+}
