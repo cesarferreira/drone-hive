@@ -13,25 +13,25 @@ and/or
 create a file with the **hive/`username/repository`.json**
 
 file: **hive/`username/repository`.json**
-```json
+```
 {
   "name": "username/repository",
-  "description": "description", // optional
-  "homepage": "homepage", // optional
+  "description": "description", // OPTIONAL
+  "homepage": "homepage", // OPTIONAL
   "dependencies": [
     {
       "dependency": "com.username.library:library",
       "compileType": "compile"
     }
   ],
-  "plugins": [ // optional
+  "plugins": [ // OPTIONAL
     {
       "apply": "com.jakewharton.butterknife"
     }
   ],
   "repository": {
     "server": "jcenter",
-    "url": "repository url" // optional
+    "url": "repository url" // OPTIONAL
   }
 }
 ```
@@ -41,7 +41,7 @@ file: **hive/`username/repository`.json**
 ### Real life example for `retrofit`:
 
 file: **hive/`square/retrofit`.json**
-```json
+```
 {
   "name": "square/retrofit",
   "description": "A type-safe HTTP client for Android and Java",
