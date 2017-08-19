@@ -16,13 +16,22 @@ file: **hive/`username/repository`.json**
 ```json
 {
   "name": "username/repository",
+  "description": "description", // optional
+  "homepage": "homepage", // optional
   "dependencies": [
-		{
+    {
       "dependency": "com.username.library:library",
       "compileType": "compile"
-    }],
+    }
+  ],
+  "plugins": [ // optional
+    {
+      "apply": "com.jakewharton.butterknife"
+    }
+  ],
   "repository": {
-    "server": "jcenter"
+    "server": "jcenter",
+    "url": "repository url" // optional
   }
 }
 ```
@@ -34,18 +43,18 @@ file: **hive/`username/repository`.json**
 file: **hive/`square/retrofit`.json**
 ```json
 {
-	"name": "square/retrofit",
-	"description": "A type-safe HTTP client for Android and Java",
-	"homepage": "http://square.github.io/retrofit/",
-	"dependencies": [
-		{
-			"dependency": "com.squareup.retrofit2:retrofit",
-			"compileType": "compile"
-		}
-	],
-	"repository": {
-		"server": "jcenter"
-	}
+  "name": "square/retrofit",
+  "description": "A type-safe HTTP client for Android and Java",
+  "homepage": "http://square.github.io/retrofit/",
+  "dependencies": [
+    {
+      "dependency": "com.squareup.retrofit2:retrofit",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
 }
 ```
 
