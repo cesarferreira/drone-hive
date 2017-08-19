@@ -1,0 +1,14 @@
+{
+  "name": "square/mockwebserver",
+  "description": "MockWebServer coupling with OkHttp is essential for proper testing of HTTP/2 so that code can be shared.",
+  "homepage": "https://github.com/square/okhttp",
+  "dependencies": [
+    {
+      "dependency": "com.squareup.okhttp3:mockwebserver",
+      "compileType": "testCompile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
