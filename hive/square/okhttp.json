@@ -1,0 +1,14 @@
+{
+  "name": "square/okhttp",
+  "description": "An HTTP+HTTP/2 client for Android and Java applications",
+  "homepage": "https://github.com/square/okhttp",
+  "dependencies": [
+    {
+      "dependency": "com.squareup.okhttp3:okhttp",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
