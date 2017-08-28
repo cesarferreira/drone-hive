@@ -1,0 +1,14 @@
+{
+  "name": "support/constraint-layout",
+  "description": "A ConstraintLayout is a ViewGroup which allows you to position and size widgets in a flexible way.",
+  "homepage": "https://developer.android.com/topic/libraries/support-library/packages.html",
+  "dependencies": [
+    {
+      "dependency": "com.android.support.constraint:constraint-layout",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
