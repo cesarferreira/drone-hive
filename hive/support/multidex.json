@@ -1,0 +1,14 @@
+{
+  "name": "support/multidex",
+  "description": "This library provides support for building apps with multiple Dalvik Executable (DEX) files",
+  "homepage": "https://developer.android.com/topic/libraries/support-library/packages.html",
+  "dependencies": [
+    {
+      "dependency": "com.android.support:multidex",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
