@@ -1,0 +1,14 @@
+{
+  "name": "square/okhttp-logging-interceptor",
+  "description": "An OkHttp interceptor which logs HTTP request and response data.",
+  "homepage": "https://github.com/square/okhttp/tree/master/okhttp-logging-interceptor",
+  "dependencies": [
+    {
+      "dependency": "com.squareup.okhttp3:logging-interceptor",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
