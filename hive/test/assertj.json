@@ -1,0 +1,14 @@
+{
+  "name": "test/assertj",
+  "description": "AssertJ is a library providing easy to use rich typed assertions",
+  "homepage": "https://github.com/joel-costigliola/assertj-core",
+  "dependencies": [
+    {
+      "dependency": "org.assertj:assertj-core",
+      "compileType": "testCompile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
