@@ -1,0 +1,14 @@
+{
+  "name": "support/transition",
+  "description": "The preference package provides APIs to support adding transitions",
+  "homepage": "https://developer.android.com/topic/libraries/support-library/packages.html",
+  "dependencies": [
+    {
+      "dependency": "com.android.support:transition",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
