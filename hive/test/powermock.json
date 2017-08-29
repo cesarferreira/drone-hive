@@ -1,0 +1,26 @@
+{
+  "name": "test/powermock",
+  "description": "PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.",
+  "homepage": "https://github.com/powermock/powermock",
+  "dependencies": [
+    {
+      "dependency": "org.powermock:powermock-module-junit4",
+      "compileType": "testCompile"
+    },
+    {
+      "dependency": "org.powermock:powermock-module-junit4-rule",
+      "compileType": "testCompile"
+    },
+    {
+      "dependency": "org.powermock:powermock-api-mockito",
+      "compileType": "testCompile"
+    },
+    {
+      "dependency": "org.powermock:powermock-classloading-xstream",
+      "compileType": "testCompile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
