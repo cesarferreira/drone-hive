@@ -1,0 +1,14 @@
+{
+  "name": "support/wear",
+  "description": "This library has APIs for building user interfaces for Wear apps. The APIs, available in the android.support.wear.widget package, replace the corresponding APIs in the Wearable Support Library.",
+  "homepage": "https://developer.android.com/topic/libraries/support-library/packages.html",
+  "dependencies": [
+    {
+      "dependency": "com.android.support:wear",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}

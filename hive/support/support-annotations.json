@@ -1,0 +1,14 @@
+{
+  "name": "support/support-annotations",
+  "description": "The preference package provides APIs to support adding preference objects, such as CheckBoxPreference and ListPreference, for users to modify UI settings.",
+  "homepage": "https://developer.android.com/topic/libraries/support-library/packages.html",
+  "dependencies": [
+    {
+      "dependency": "com.android.support:support-annotations",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}

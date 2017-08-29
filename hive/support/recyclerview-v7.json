@@ -1,0 +1,14 @@
+{
+  "name": "support/recyclerview-v7",
+  "description": "This class provides support for the RecyclerView widget, a view for efficiently displaying large data sets by providing a limited window of data items.",
+  "homepage": "https://developer.android.com/topic/libraries/support-library/packages.html",
+  "dependencies": [
+    {
+      "dependency": "com.android.support:recyclerview-v7",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}

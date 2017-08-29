@@ -1,0 +1,14 @@
+{
+  "name": "support/percent",
+  "description": "The Percent package provides APIs to support adding and managing percentage based dimensions in your app.",
+  "homepage": "https://developer.android.com/topic/libraries/support-library/packages.html",
+  "dependencies": [
+    {
+      "dependency": "com.android.support:percent",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
