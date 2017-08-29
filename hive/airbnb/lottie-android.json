@@ -1,0 +1,14 @@
+{
+  "name": "airbnb/lottie-android",
+  "description": "Render After Effects animations natively on Android and iOS",
+  "homepage": "https://github.com/airbnb/lottie-android",
+  "dependencies": [
+    {
+      "dependency": "com.airbnb.android:lottie",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
