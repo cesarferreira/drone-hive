@@ -1,0 +1,14 @@
+{
+  "name": "JakeWharton/RxRelay",
+  "description": "RxJava types that are both an Observable and a Consumer.",
+  "homepage": "https://github.com/JakeWharton/RxRelay",
+  "dependencies": [
+    {
+      "dependency": "com.jakewharton.rxrelay2:rxrelay",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
