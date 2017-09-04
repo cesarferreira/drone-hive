@@ -1,0 +1,14 @@
+{
+  "name": "pilgr/Paper",
+  "description": "Fast and simple data storage library for Android",
+  "homepage": "https://github.com/pilgr/Paper",
+  "dependencies": [
+    {
+      "dependency": "io.paperdb:paperdb",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
