@@ -1,0 +1,14 @@
+{
+  "name": "square/otto",
+  "description": "An enhanced Guava-based event bus with emphasis on Android support.",
+  "homepage": "https://github.com/square/otto",
+  "dependencies": [
+    {
+      "dependency": "com.squareup:otto",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
