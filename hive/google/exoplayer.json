@@ -1,0 +1,14 @@
+{
+  "name": "google/ExoPlayer",
+  "description": "An extensible media player for Android",
+  "homepage": "https://github.com/google/ExoPlayer",
+  "dependencies": [
+    {
+      "dependency": "com.google.android.exoplayer:exoplayer",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
