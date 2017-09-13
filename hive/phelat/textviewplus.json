@@ -1,0 +1,14 @@
+{
+  "name": "PHELAT/TextViewPlus",
+  "description": "an android library for setting custom font in xml layout",
+  "homepage": "https://github.com/PHELAT/TextViewPlus",
+  "dependencies": [
+    {
+      "dependency": "phelat.textview:textviewplus",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
