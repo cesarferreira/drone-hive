@@ -1,0 +1,22 @@
+{
+  "name": "nisrulz/easydeviceinfo",
+  "description": ":iphone: [Android Library] Get device information in a super easy way.",
+  "homepage": "https://github.com/nisrulz/easydeviceinfo",
+  "dependencies": [
+    {
+      "dependency": "com.github.nisrulz:easydeviceinfo",
+      "compileType": "compile"
+    },
+    {
+      "dependency": "com.github.nisrulz:easydeviceinfo-base",
+      "compileType": "compile"
+    },
+    {
+      "dependency": "com.github.nisrulz:easydeviceinfo-ads",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "maven"
+  }
+}
