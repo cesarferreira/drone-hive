@@ -1,0 +1,14 @@
+{
+  "name": "jgilfelt/chuck",
+  "description": "An in-app HTTP inspector for Android OkHttp clients",
+  "homepage": "https://github.com/jgilfelt/chuck",
+  "dependencies": [
+    {
+      "dependency": "com.readystatesoftware.chuck:library",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
