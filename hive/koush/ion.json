@@ -1,0 +1,14 @@
+{
+  "name": "koush/ion",
+  "description": "Android Asynchronous Networking and Image Loading",
+  "homepage": "https://github.com/koush/ion",
+  "dependencies": [
+    {
+      "dependency": "com.koushikdutta.ion:ion",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}

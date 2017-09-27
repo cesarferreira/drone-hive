@@ -1,0 +1,14 @@
+{
+  "name": "HackPlan/AndroidCharts",
+  "description": "An easy-to-use Android charts library with animation.",
+  "homepage": "https://github.com/HackPlan/AndroidCharts",
+  "dependencies": [
+    {
+      "dependency": "im.dacer:AndroidCharts",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}

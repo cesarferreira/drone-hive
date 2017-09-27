@@ -1,0 +1,14 @@
+{
+  "name": "google/volley",
+  "description": "Volley is an HTTP library that makes networking for Android apps easier and, most importantly, faster.",
+  "homepage": "https://github.com/google/volley",
+  "dependencies": [
+    {
+      "dependency": "com.android.volley:volley",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
