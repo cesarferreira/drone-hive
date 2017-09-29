@@ -1,0 +1,14 @@
+{
+  "name": "orhanobut/hawk",
+  "description": "✔️ Secure, simple key-value storage for Android",
+  "homepage": "https://github.com/orhanobut/hawk",
+  "dependencies": [
+    {
+      "dependency": "com.orhanobut:hawk",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}

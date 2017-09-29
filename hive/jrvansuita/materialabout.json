@@ -1,0 +1,15 @@
+{
+  "name": "jrvansuita/MaterialAbout",
+  "description": "It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate. 🔖",
+  "homepage": "https://github.com/jrvansuita/MaterialAbout",
+  "dependencies": [
+    {
+      "dependency": "com.github.jrvansuita:MaterialAbout",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  }
+}
