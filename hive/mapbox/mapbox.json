@@ -1,0 +1,14 @@
+{
+    "name": "mapbox/mapbox",
+    "description": "The Mapbox Android Map SDK is an open source toolset for displaying maps inside of your Android application. Mapbox's demo app on the Google Play Store includes many examples of how to use Mapbox Maps. Various pages in this documentation reference examples in the demo app.",
+    "homepage": "https://www.mapbox.com/android-docs/map-sdk/overview/",
+    "dependencies": [
+        {
+            "dependency": "com.mapbox.mapboxsdk:mapbox-android-sdk",
+            "compileType": "compile"
+    }
+  ],
+    "repository": {
+        "server": "jcenter"
+    }
+}
