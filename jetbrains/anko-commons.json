@@ -1,0 +1,14 @@
+{
+  "name": "jetbrains/anko-commons",
+  "description": "Library contains a lot of helpers for Android SDK.",
+  "homepage": "https://github.com/Kotlin/anko",
+  "dependencies": [
+    {
+      "dependency": "org.jetbrains.anko:anko-commons",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
