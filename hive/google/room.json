@@ -1,0 +1,23 @@
+{
+  "name": "google/room",
+  "description": "Room provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.",
+  "homepage": "https://developer.android.com/topic/libraries/architecture/room.html",
+  "dependencies": [
+    {
+      "dependency": "android.arch.persistence.room:runtime",
+      "compileType": "compile"
+    },
+    {
+      "dependency": "android.arch.persistence.room:rxjava2",
+      "compileType": "compile"
+    },
+    {
+      "dependency": "android.arch.persistence.room:compiler",
+      "compileType": "apt"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://maven.google.com"
+  }
+}
