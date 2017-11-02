@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.squareup:otto",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

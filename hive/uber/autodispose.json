@@ -5,11 +5,11 @@
   "dependencies": [
     {
       "dependency": "com.uber.autodispose:autodispose",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "com.uber.autodispose:autodispose-android",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

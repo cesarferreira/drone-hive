@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.android.support:wear",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

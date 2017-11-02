@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.facebook.rebound:rebound",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

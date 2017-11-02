@@ -5,7 +5,7 @@
 	"dependencies": [
 		{
 			"dependency": "com.github.cesarferreira:kotlin-pluralizer",
-			"compileType": "compile"
+			"compileType": "implementation"
 		}
 	],
 	"repository": {

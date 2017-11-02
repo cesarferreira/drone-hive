@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.jakewharton.rxrelay2:rxrelay",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

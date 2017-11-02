@@ -5,11 +5,11 @@
   "dependencies": [
     {
       "dependency": "com.pushtorefresh.storio:sqlite",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "com.pushtorefresh.storio:content-resolver",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

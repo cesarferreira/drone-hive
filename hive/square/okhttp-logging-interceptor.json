@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.squareup.okhttp3:logging-interceptor",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

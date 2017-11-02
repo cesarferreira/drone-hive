@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "org.assertj:assertj-core",
-      "compileType": "testCompile"
+      "compileType": "testImplementation"
     }
   ],
   "repository": {

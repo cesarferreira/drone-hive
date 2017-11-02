@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.orhanobut:hawk",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

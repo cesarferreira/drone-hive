@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "org.mockito:mockito-core",
-      "compileType": "testCompile"
+      "compileType": "testImplementation"
     },
     {
       "dependency": "org.mockito:mockito-android",

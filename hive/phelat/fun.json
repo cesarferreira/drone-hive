@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.phelat:fun",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.github.jrvansuita:MaterialAbout",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

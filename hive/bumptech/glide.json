@@ -5,11 +5,11 @@
   "dependencies": [
     {
       "dependency": "com.github.bumptech.glide:glide",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "com.android.support:support-v4",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "com.github.bumptech.glide:compiler",

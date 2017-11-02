@@ -5,7 +5,7 @@
 	"dependencies": [
 		{
 			"dependency": "com.jakewharton:butterknife",
-			"compileType": "compile"
+			"compileType": "implementation"
 		},
 		{
 			"dependency": "com.jakewharton:butterknife-compiler",

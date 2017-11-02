@@ -3,7 +3,7 @@
   "dependencies": [
     {
       "dependency": "com.squareup.retrofit2:adapter-rxjava2",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

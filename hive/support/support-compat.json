@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.android.support:support-compat",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.github.chrisbanes:PhotoView",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

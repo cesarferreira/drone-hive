@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "org.greenrobot:eventbus",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

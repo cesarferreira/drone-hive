@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "junit:junit",
-      "compileType": "testCompile"
+      "compileType": "testImplementation"
     }
   ],
   "repository": {

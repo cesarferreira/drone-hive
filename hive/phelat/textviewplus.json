@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "phelat.textview:textviewplus",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.squareup.retrofit2:retrofit",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

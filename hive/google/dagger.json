@@ -5,7 +5,7 @@
 	"dependencies": [
 		{
 			"dependency": "com.google.dagger:dagger",
-			"compileType": "compile"
+			"compileType": "implementation"
 		},
 		{
 			"dependency": "com.google.dagger:dagger-compiler",

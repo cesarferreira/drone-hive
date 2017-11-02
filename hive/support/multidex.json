@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.android.support:multidex",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

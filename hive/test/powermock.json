@@ -5,19 +5,19 @@
   "dependencies": [
     {
       "dependency": "org.powermock:powermock-module-junit4",
-      "compileType": "testCompile"
+      "compileType": "testImplementation"
     },
     {
       "dependency": "org.powermock:powermock-module-junit4-rule",
-      "compileType": "testCompile"
+      "compileType": "testImplementation"
     },
     {
       "dependency": "org.powermock:powermock-api-mockito",
-      "compileType": "testCompile"
+      "compileType": "testImplementation"
     },
     {
       "dependency": "org.powermock:powermock-classloading-xstream",
-      "compileType": "testCompile"
+      "compileType": "testImplementation"
     }
   ],
   "repository": {

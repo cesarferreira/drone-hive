@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "org.parceler:parceler-api",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "org.parceler:parceler",

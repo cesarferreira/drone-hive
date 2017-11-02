@@ -5,11 +5,11 @@
   "dependencies": [
     {
       "dependency": "android.arch.persistence.room:runtime",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "android.arch.persistence.room:rxjava2",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "android.arch.persistence.room:compiler",

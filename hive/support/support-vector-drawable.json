@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.android.support:support-vector-drawable",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

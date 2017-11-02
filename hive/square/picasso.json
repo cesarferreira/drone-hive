@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.squareup.picasso:picasso",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

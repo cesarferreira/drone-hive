@@ -5,15 +5,15 @@
   "dependencies": [
     {
       "dependency": "com.github.nisrulz:easydeviceinfo",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "com.github.nisrulz:easydeviceinfo-base",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "com.github.nisrulz:easydeviceinfo-ads",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

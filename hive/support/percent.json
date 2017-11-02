@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.android.support:percent",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

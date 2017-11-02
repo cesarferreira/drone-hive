@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "com.facebook.fresco:fresco",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {

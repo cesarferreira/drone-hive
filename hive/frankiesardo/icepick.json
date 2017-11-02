@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "frankiesardo:icepick",
-      "compileType": "compile"
+      "compileType": "implementation"
     },
     {
       "dependency": "frankiesardo:icepick-processor",

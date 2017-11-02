@@ -21,7 +21,7 @@ file: **hive/`username/repository`.json**
   "dependencies": [
     {
       "dependency": "com.username.library:library",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "plugins": [ // OPTIONAL
@@ -49,7 +49,7 @@ file: **hive/`square/retrofit`.json**
   "dependencies": [
     {
       "dependency": "com.squareup.retrofit2:retrofit",
-      "compileType": "compile"
+      "compileType": "implementation"
     }
   ],
   "repository": {
