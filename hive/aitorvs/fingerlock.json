@@ -1,0 +1,15 @@
+{
+  "name": "aitorvs/fingerlock",
+  "description": "Android fingerprint authentication library",
+  "homepage": "https://github.com/aitorvs/fingerlock",
+  "dependencies": [
+    {
+      "dependency": "com.github.aitorvs.fingerlock:core:",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  }
+}
