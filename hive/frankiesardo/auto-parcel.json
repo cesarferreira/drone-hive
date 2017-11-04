@@ -5,7 +5,7 @@
   "dependencies": [
     {
       "dependency": "frankiesardo:auto-parcel",
-      "compileType": "apt"
+      "compileType": "annotationProcessor"
     }
   ],
   "repository": {
