@@ -1,0 +1,15 @@
+{
+  "name": "frankiesardo/auto-parcel",
+  "description": "Android Parcelable models made easy",
+  "homepage": "https://github.com/frankiesardo/auto-parcel",
+  "dependencies": [
+    {
+      "dependency": "frankiesardo:auto-parcel",
+      "compileType": "apt"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://clojars.org/repo/"
+  }
+}
