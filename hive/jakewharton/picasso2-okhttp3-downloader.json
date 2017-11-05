@@ -1,0 +1,14 @@
+{
+  "name": "JakeWharton/picasso2-okhttp3-downloader",
+  "description": "A OkHttp 3 downloader implementation for Picasso 2.",
+  "homepage": "https://github.com/JakeWharton/picasso2-okhttp3-downloader",
+  "dependencies": [
+    {
+      "dependency": "com.jakewharton.picasso:picasso2-okhttp3-downloader",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
