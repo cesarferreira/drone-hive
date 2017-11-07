@@ -1,5 +1,5 @@
 {
-	"name": "reactivex/rxjava",
+	"name": "reactivex/rxkotlin",
 	"description": "RxKotlin is a lightweight library that adds convenient extension functions to RxJava",
 	"homepage": "https://github.com/ReactiveX/RxKotlin",
 	"dependencies": [
