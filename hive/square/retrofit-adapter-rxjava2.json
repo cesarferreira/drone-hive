@@ -1,5 +1,6 @@
 {
   "name": "square/retrofit-adapter-rxjava2",
+  "description": "Retrofit Adapter for adapting RxJava 2.x types",
   "dependencies": [
     {
       "dependency": "com.squareup.retrofit2:adapter-rxjava2",
