@@ -8,8 +8,16 @@
 			"compileType": "implementation"
 		},
 		{
+			"dependency": "com.google.dagger:dagger-android-support",
+			"compileType": "implementation"
+		},
+		{
 			"dependency": "com.google.dagger:dagger-compiler",
-			"compileType": "apt"
+			"compileType": "annotationProcessor"
+		},
+		{
+			"dependency": "com.google.dagger:dagger-android-processor",
+			"compileType": "annotationProcessor"
 		}
 	],
 	"repository": {
