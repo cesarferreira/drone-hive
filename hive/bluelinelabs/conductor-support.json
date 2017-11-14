@@ -1,0 +1,14 @@
+{
+  "name": "bluelinelabs/conductor",
+  "description": "Android's support libraries (currently just a PagerAdapter) for Conductor",
+  "homepage": "https://github.com/bluelinelabs/conductor",
+  "dependencies": [
+    {
+      "dependency": "com.bluelinelabs:conductor-support",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
