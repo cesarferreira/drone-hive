@@ -1,6 +1,10 @@
 # drone-hive
 > Hive with all of the android drones
 
+<p align="center">
+<img src="https://github.com/cesarferreira/drone/raw/master/extras/add4.gif" width="100%" />
+</p>
+
 Companion repository for [drone](https://github.com/cesarferreira/drone)
 
 ## How to contribute?
@@ -13,25 +17,21 @@ and/or
 create a file with the **hive/`username/repository`.json**
 
 file: **hive/`username/repository`.json**
-```
+
+```json
 {
   "name": "username/repository",
-  "description": "description", // OPTIONAL
-  "homepage": "homepage", // OPTIONAL
+  "description": "description",
+  "homepage": "homepage",
   "dependencies": [
     {
       "dependency": "com.username.library:library",
       "compileType": "implementation"
     }
   ],
-  "plugins": [ // OPTIONAL
-    {
-      "apply": "com.jakewharton.butterknife"
-    }
-  ],
   "repository": {
     "server": "jcenter",
-    "url": "repository url" // OPTIONAL
+    "url": "repository_url"
   }
 }
 ```
@@ -41,7 +41,8 @@ file: **hive/`username/repository`.json**
 ### Real life example for `retrofit`:
 
 file: **hive/`square/retrofit`.json**
-```
+
+```json
 {
   "name": "square/retrofit",
   "description": "A type-safe HTTP client for Android and Java",
