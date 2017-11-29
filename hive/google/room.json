@@ -13,7 +13,7 @@
     },
     {
       "dependency": "android.arch.persistence.room:compiler",
-      "compileType": "apt"
+      "compileType": "annotationProcessor"
     }
   ],
   "repository": {
