@@ -14,6 +14,10 @@
     {
       "dependency": "android.arch.persistence.room:compiler",
       "compileType": "annotationProcessor"
+    },
+    {
+      "dependency":"android.arch.persistence.room:testing",
+      "compileType":"androidTestImplementation"
     }
   ],
   "repository": {
