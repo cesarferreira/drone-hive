@@ -8,3 +8,10 @@ temp/
 
 .DS_Store
 .env
+.idea/compiler.xml
+.idea/copyright/
+.idea/drone-hive.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml

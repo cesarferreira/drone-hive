@@ -1,0 +1,13 @@
+{
+  "name": "rxpermissions2/rxpermissions",
+  "description": "Android runtime permissions powered by RxJava2",
+  "dependencies": [
+    {
+      "dependency": "com.tbruyelle.rxpermissions2:rxpermissions:0.9.4@aar",
+      "compileType": "compile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
