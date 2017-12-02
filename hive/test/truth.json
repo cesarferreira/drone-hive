@@ -1,0 +1,15 @@
+{
+  "name": "test/truth",
+  "description": "Truth is an open source, fluent testing framework for Java that is designed to make your test assertions and failure messages more readable",
+  "homepage": "http://google.github.io/truth/",
+  "dependencies": [
+    {
+      "dependency": "com.google.truth:truth",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "mavenCentral"
+  }
+}
+
