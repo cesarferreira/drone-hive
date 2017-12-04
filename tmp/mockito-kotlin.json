@@ -1,0 +1,18 @@
+{
+  "name": "mockito-kotlin",
+  "description": "A small library that provides helper functions to work with Mockito in Kotlin.",
+  "homepage": "https://github.com/nhaarman/mockito-kotlin",
+  "dependencies": [
+    {
+      "dependency": "com.nhaarman:mockito-kotlin",
+      "compileType": "testImplementation"
+    }
+  ],
+  "repository": {
+    "server": "mavenCentral"
+  },
+  "author": {
+    "name": "test",
+    "webpage": "https://github.com/nhaarman/"
+  }
+}

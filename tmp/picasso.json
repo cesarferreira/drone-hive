@@ -1,0 +1,18 @@
+{
+  "name": "picasso",
+  "description": "A Powerful image downloading and caching library for android",
+  "homepage": "https://square.github.io/picasso",
+  "dependencies": [
+    {
+      "dependency": "com.squareup.picasso:picasso",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "square",
+    "webpage": "https://square.github.io/"
+  }
+}

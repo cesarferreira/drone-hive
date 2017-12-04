@@ -1,0 +1,18 @@
+{
+  "name": "calligraphy",
+  "description": "Custom fonts in Android the easy way...",
+  "homepage": "https://github.com/chrisjenx/calligraphy",
+  "dependencies": [
+    {
+      "dependency": "uk.co.chrisjenx:calligraphy",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven"
+  },
+  "author": {
+    "name": "chrisjenx",
+    "webpage": "https://github.com/chrisjenx/"
+  }
+}

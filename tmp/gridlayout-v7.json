@@ -1,0 +1,17 @@
+{
+  "name": "gridlayout-v7",
+  "description": "this library adds support for the GridLayout class, which allows you to arrange user interface elements using a grid of rectangular cells",
+  "homepage": "https://developer.android.com/topic/libraries/support-library/packages.html",
+  "dependencies": [
+    {
+      "dependency": "com.android.support:gridlayout-v7",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "support"
+  }
+}

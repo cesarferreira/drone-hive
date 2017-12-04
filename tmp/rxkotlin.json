@@ -1,0 +1,18 @@
+{
+  "name": "rxkotlin",
+  "description": "RxKotlin is a lightweight library that adds convenient extension functions to RxJava",
+  "homepage": "https://github.com/ReactiveX/RxKotlin",
+  "dependencies": [
+    {
+      "dependency": "io.reactivex.rxjava2:rxkotlin",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "reactivex",
+    "webpage": "https://github.com/ReactiveX/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "retrofit-converter-gson",
+  "dependencies": [
+    {
+      "dependency": "com.squareup.retrofit2:converter-gson",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "square"
+  }
+}

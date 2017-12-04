@@ -1,0 +1,18 @@
+{
+  "name": "fresco",
+  "description": "An Android library for managing images and the memory they use.",
+  "homepage": "https://github.com/facebook/fresco",
+  "dependencies": [
+    {
+      "dependency": "com.facebook.fresco:fresco",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "facebook",
+    "webpage": "https://github.com/facebook/"
+  }
+}

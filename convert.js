@@ -11,7 +11,7 @@ function getFiles(path) {
 
 function writeObjectTo(obj) {
 	log(JSON.stringify(obj, null, 2))
-	fs.writeFileSync(`./tmp/${obj.name}`, JSON.stringify(obj), 'utf-8');
+	fs.writeFileSync(`./tmp/${obj.name.toLowerCase()}.json`, JSON.stringify(obj, null, 2), 'utf-8');
 }
 
 // TODO o search tb devia procurar na description

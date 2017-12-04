@@ -1,0 +1,18 @@
+{
+  "name": "retrofit",
+  "description": "Type-safe HTTP client for Android and Java by Square, Inc.",
+  "homepage": "https://github.com/square/retrofit",
+  "dependencies": [
+    {
+      "dependency": "com.squareup.retrofit2:retrofit",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven"
+  },
+  "author": {
+    "name": "square",
+    "webpage": "https://github.com/square/"
+  }
+}

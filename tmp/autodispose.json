@@ -1,0 +1,22 @@
+{
+  "name": "autodispose",
+  "description": "Automatic binding+disposal of RxJava 2 streams.",
+  "homepage": "https://github.com/uber/AutoDispose",
+  "dependencies": [
+    {
+      "dependency": "com.uber.autodispose:autodispose",
+      "compileType": "implementation"
+    },
+    {
+      "dependency": "com.uber.autodispose:autodispose-android",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "uber",
+    "webpage": "https://github.com/uber/"
+  }
+}
