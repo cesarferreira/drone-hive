@@ -1,0 +1,22 @@
+{
+  "name": "drone-hive",
+  "version": "1.0.0",
+  "description": "> Hive with all of the android drones",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarferreira/drone-hive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarferreira/drone-hive/issues"
+  },
+  "homepage": "https://github.com/cesarferreira/drone-hive#readme",
+  "dependencies": {
+    "filehound": "^1.16.2"
+  }
+}
