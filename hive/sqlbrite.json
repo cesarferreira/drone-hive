@@ -1,0 +1,18 @@
+{
+  "name": "sqlbrite",
+  "description": "A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.",
+  "homepage": "https://github.com/square/sqlbrite",
+  "dependencies": [
+    {
+      "dependency": "com.squareup.sqlbrite2:sqlbrite",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "square",
+    "webpage": "https://github.com/square/"
+  }
+}

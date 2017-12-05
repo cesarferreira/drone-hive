@@ -1,0 +1,22 @@
+{
+  "name": "parceler",
+  "description": " Android Parcelables made easy through code generation",
+  "homepage": "https://github.com/johncarl81/parceler",
+  "dependencies": [
+    {
+      "dependency": "org.parceler:parceler-api",
+      "compileType": "implementation"
+    },
+    {
+      "dependency": "org.parceler:parceler",
+      "compileType": "annotationProcessor"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "johncarl81",
+    "webpage": "https://github.com/johncarl81/"
+  }
+}

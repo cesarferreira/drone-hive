@@ -1,0 +1,19 @@
+{
+  "name": "ContinuousScrollableImageView",
+  "description": "Library for animating images with continuous scrolling effects",
+  "homepage": "https://github.com/Cutta/ContinuousScrollableImageView",
+  "dependencies": [
+    {
+      "dependency": "com.github.Cutta:ContinuousScrollableImageView",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  },
+  "author": {
+    "name": "Cutta",
+    "webpage": "https://github.com/Cutta/"
+  }
+}

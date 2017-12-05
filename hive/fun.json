@@ -1,0 +1,18 @@
+{
+  "name": "Fun",
+  "description": "A library for android to animate expanding and collapsing views.",
+  "homepage": "https://github.com/PHELAT/Fun",
+  "dependencies": [
+    {
+      "dependency": "com.phelat:fun",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "PHELAT",
+    "webpage": "https://github.com/PHELAT/"
+  }
+}

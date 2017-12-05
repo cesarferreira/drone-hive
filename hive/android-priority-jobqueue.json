@@ -1,0 +1,18 @@
+{
+  "name": "android-priority-jobqueue",
+  "description": "A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.",
+  "homepage": "https://github.com/yigit/android-priority-jobqueue",
+  "dependencies": [
+    {
+      "dependency": "com.birbit:android-priority-jobqueue",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven"
+  },
+  "author": {
+    "name": "yigit",
+    "webpage": "https://github.com/yigit/"
+  }
+}

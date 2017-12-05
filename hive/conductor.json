@@ -1,0 +1,18 @@
+{
+  "name": "conductor",
+  "description": "A small, yet full-featured framework that allows building View-based Android applications",
+  "homepage": "https://github.com/bluelinelabs/conductor",
+  "dependencies": [
+    {
+      "dependency": "com.bluelinelabs:conductor",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "bluelinelabs",
+    "webpage": "https://github.com/bluelinelabs/"
+  }
+}

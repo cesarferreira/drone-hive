@@ -1,0 +1,22 @@
+{
+  "name": "leakcanary",
+  "description": "A memory leak detection library for Android and Java.",
+  "homepage": "https://github.com/square/leakcanary",
+  "dependencies": [
+    {
+      "dependency": "com.squareup.leakcanary:leakcanary-android",
+      "compileType": "debugCompile"
+    },
+    {
+      "dependency": "com.squareup.leakcanary:leakcanary-android-no-op",
+      "compileType": "releaseCompile"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "square",
+    "webpage": "https://github.com/square/"
+  }
+}

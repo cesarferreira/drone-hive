@@ -1,0 +1,22 @@
+{
+  "name": "storio",
+  "description": "Reactive API for SQLiteDatabase and ContentResolver.",
+  "homepage": "https://github.com/pushtorefresh/storio",
+  "dependencies": [
+    {
+      "dependency": "com.pushtorefresh.storio:sqlite",
+      "compileType": "implementation"
+    },
+    {
+      "dependency": "com.pushtorefresh.storio:content-resolver",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven"
+  },
+  "author": {
+    "name": "pushtorefresh",
+    "webpage": "https://github.com/pushtorefresh/"
+  }
+}

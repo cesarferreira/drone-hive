@@ -1,0 +1,19 @@
+{
+  "name": "android-image-picker",
+  "description": "Image Picker for Android 🤖",
+  "homepage": "https://github.com/esafirm/android-image-picker",
+  "dependencies": [
+    {
+      "dependency": "com.github.esafirm.android-image-picker:imagepicker",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  },
+  "author": {
+    "name": "esafirm",
+    "webpage": "https://github.com/esafirm/"
+  }
+}

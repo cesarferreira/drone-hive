@@ -1,0 +1,19 @@
+{
+  "name": "LiteUtilities",
+  "description": "Speed up your android development by removing boilerplate code",
+  "homepage": "https://github.com/gurleensethi/LiteUtilities",
+  "dependencies": [
+    {
+      "dependency": "com.github.gurleensethi:LiteUtilities",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  },
+  "author": {
+    "name": "gurleensethi",
+    "webpage": "https://github.com/gurleensethi/"
+  }
+}

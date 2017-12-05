@@ -1,0 +1,18 @@
+{
+  "name": "eventbus",
+  "description": "Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. ",
+  "homepage": "https://github.com/greenrobot/EventBus",
+  "dependencies": [
+    {
+      "dependency": "org.greenrobot:eventbus",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "greenrobot",
+    "webpage": "https://github.com/greenrobot/"
+  }
+}

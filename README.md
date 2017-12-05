@@ -14,13 +14,13 @@ Use the [drone](https://github.com/cesarferreira/drone) tool.
 
 and/or
 
-create a file with the **hive/`username/repository`.json**
+create a file with the **hive/`repository`.json**
 
-file: **hive/`username/repository`.json**
+file: **hive/`repository`.json**
 
 ```json
 {
-  "name": "username/repository",
+  "name": "repository",
   "description": "description",
   "homepage": "homepage",
   "dependencies": [
@@ -32,6 +32,10 @@ file: **hive/`username/repository`.json**
   "repository": {
     "server": "jcenter",
     "url": "repository_url"
+  },
+  "author": {
+    "name": "author",
+    "webpage": "https://github.com/author"
   }
 }
 ```
@@ -40,13 +44,13 @@ file: **hive/`username/repository`.json**
 
 ### Real life example for `retrofit`:
 
-file: **hive/`square/retrofit`.json**
+file: **hive/`retrofit`.json**
 
 ```json
 {
-  "name": "square/retrofit",
-  "description": "A type-safe HTTP client for Android and Java",
-  "homepage": "http://square.github.io/retrofit/",
+  "name": "retrofit",
+  "description": "Type-safe HTTP client for Android and Java by Square, Inc.",
+  "homepage": "https://github.com/square/retrofit",
   "dependencies": [
     {
       "dependency": "com.squareup.retrofit2:retrofit",
@@ -54,7 +58,11 @@ file: **hive/`square/retrofit`.json**
     }
   ],
   "repository": {
-    "server": "jcenter"
+  "server": "maven"
+  },
+  "author": {
+    "name": "square",
+    "webpage": "https://github.com/square/"
   }
 }
 ```

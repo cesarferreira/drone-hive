@@ -1,0 +1,19 @@
+{
+  "name": "PhotoView",
+  "description": "Implementation of ImageView for Android that supports zooming, by various touch gestures.",
+  "homepage": "https://github.com/chrisbanes/PhotoView",
+  "dependencies": [
+    {
+      "dependency": "com.github.chrisbanes:PhotoView",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  },
+  "author": {
+    "name": "chrisbanes",
+    "webpage": "https://github.com/chrisbanes/"
+  }
+}
