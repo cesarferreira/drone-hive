@@ -5,11 +5,11 @@
   "dependencies": [
     {
       "dependency": "com.readystatesoftware.chuck:library",
-      "compileType": "debugCompile"
+      "compileType": "debugImplementation"
     },
     {
       "dependency": "com.readystatesoftware.chuck:library-no-op",
-      "compileType": "releaseCompile"
+      "compileType": "releaseImplementation"
     }
   ],
   "repository": {

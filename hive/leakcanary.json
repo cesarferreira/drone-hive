@@ -5,11 +5,11 @@
   "dependencies": [
     {
       "dependency": "com.squareup.leakcanary:leakcanary-android",
-      "compileType": "debugCompile"
+      "compileType": "debugImplementation"
     },
     {
       "dependency": "com.squareup.leakcanary:leakcanary-android-no-op",
-      "compileType": "releaseCompile"
+      "compileType": "releaseImplementation"
     }
   ],
   "repository": {
