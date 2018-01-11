@@ -1,0 +1,14 @@
+{
+  "name": "RecyclerTabLayout",
+  "description": "An efficient TabLayout library implemented with RecyclerView.",
+  "homepage": "https://github.com/nshmura/RecyclerTabLayout",
+  "dependencies": [
+    {
+      "dependency": "com.nshmura:recyclertablayout:1.5.0",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  }
+}
