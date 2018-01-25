@@ -1,0 +1,18 @@
+{
+  "name": "rollbar",
+  "description": "Rollbar for Android",
+  "homepage": "https://rollbar.com/docs/notifier/rollbar-android/",
+  "dependencies": [
+    {
+      "dependency": "com.rollbar:rollbar-java",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven"
+  },
+  "author": {
+    "name": "rollbar",
+    "webpage": "https://rollbar.com"
+  }
+}
