@@ -13,7 +13,7 @@
     }
   ],
   "repository": {
-    "server": "jcenter"
+    "server": "maven"
   },
   "author": {
     "name": "square",
