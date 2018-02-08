@@ -9,7 +9,8 @@
     }
   ],
   "repository": {
-    "server": "jcenter"
+    "server": "maven",
+    "url": "https://maven.google.com"
   },
   "author": {
     "name": "test"
