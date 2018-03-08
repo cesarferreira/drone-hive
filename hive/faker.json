@@ -1,0 +1,19 @@
+{
+	"name": "faker",
+	"description": "A kotlin extension to load images asynchronously on android",
+	"homepage": "https://github.com/cesarferreira/faker",
+	"dependencies": [
+		{
+			"dependency": "com.github.cesarferreira:faker:",
+			"compileType": "implementation"
+		}
+	],
+	"repository": {
+		"server": "maven",
+		"url": "https://jitpack.io"
+	},
+	"author": {
+		"name": "cesarferreira",
+		"webpage": "https://github.com/cesarferreira/"
+	}
+}
