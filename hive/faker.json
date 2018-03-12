@@ -4,7 +4,7 @@
 	"homepage": "https://github.com/cesarferreira/faker",
 	"dependencies": [
 		{
-			"dependency": "com.github.cesarferreira:faker:",
+			"dependency": "com.github.cesarferreira:faker",
 			"compileType": "implementation"
 		}
 	],
