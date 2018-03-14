@@ -8,16 +8,13 @@
       "compileType": "implementation"
     },
     {
-      "dependency": "com.android.support:support-v4",
-      "compileType": "implementation"
-    },
-    {
       "dependency": "com.github.bumptech.glide:compiler",
       "compileType": "annotationProcessor"
     }
   ],
   "repository": {
-    "server": "jcenter"
+    "server": "maven",
+    "url": "https://maven.google.com"
   },
   "author": {
     "name": "bumptech",
