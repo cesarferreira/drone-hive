@@ -1,0 +1,19 @@
+{
+  "name": "MaterialDrawer",
+  "description": "The flexible, easy to use, all in one drawer library for your Android project",
+  "homepage": "http://mikepenz.github.io/MaterialDrawer",
+  "dependencies": [
+    {
+      "dependency": "com.mikepenz:materialdrawer",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  },
+  "author": {
+    "name": "mikepenz",
+    "webpage": "https://github.com/mikepenz"
+  }
+}
