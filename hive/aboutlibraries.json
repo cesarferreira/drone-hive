@@ -1,0 +1,20 @@
+{
+  "name": "AboutLibraries",
+  "description": "AboutLibraries is a library to offer some information of libraries.",
+  "homepage": "http://mikepenz.github.io/AboutLibraries",
+  "dependencies": [
+    {
+      "dependency": "com.mikepenz:aboutlibraries",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  },
+  "author": {
+    "name": "mikepenz",
+    "webpage": "https://github.com/mikepenz"
+  }
+}
+
