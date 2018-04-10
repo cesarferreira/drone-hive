@@ -8,12 +8,6 @@
 Companion repository for [drone](https://github.com/cesarferreira/drone)
 
 ## How to contribute?
-Use the [drone](https://github.com/cesarferreira/drone) tool.
-
-> $ drone create
-
-and/or
-
 create a file with the **hive/`repository`.json**
 
 file: **hive/`repository`.json**
