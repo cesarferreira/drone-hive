@@ -1,0 +1,22 @@
+{
+  "name": "kluent",
+  "description": "Fluent Assertion-Library for Kotlin",
+  "homepage": "https://github.com/MarkusAmshove/Kluent",
+  "dependencies": [
+    {
+      "dependency": "org.amshove.kluent:kluent",
+      "compileType": "testImplementation"
+    },
+    {
+      "dependency": "org.amshove.kluent:kluent-android",
+      "compileType": "testImplementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "MarkusAmshove",
+    "webpage": "https://github.com/MarkusAmshove"
+  }
+}
