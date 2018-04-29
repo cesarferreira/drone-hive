@@ -1,0 +1,42 @@
+{
+  "name": "fuel",
+  "description": "The easiest HTTP networking library for Kotlin/Android",
+  "homepage": "https://github.com/kittinunf/Fuel",
+  "dependencies": [
+    {
+      "dependency": "com.github.kittinunf.fuel:fuel",
+      "compileType": "implementation"
+    },
+    {
+      "dependency": "com.github.kittinunf.fuel:fuel-android",
+      "compileType": "implementation"
+    },
+    {
+      "dependency": "com.github.kittinunf.fuel:fuel-livedata",
+      "compileType": "implementation"
+    },
+    {
+      "dependency": "com.github.kittinunf.fuel:fuel-rxjava",
+      "compileType": "implementation"
+    },
+    {
+      "dependency": "com.github.kittinunf.fuel:fuel-gson",
+      "compileType": "implementation"
+    },
+    {
+      "dependency": "com.github.kittinunf.fuel:fuel-jackson",
+      "compileType": "implementation"
+    },
+    {
+      "dependency": "com.github.kittinunf.fuel:fuel-moshi",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "kittinunf",
+    "webpage": "https://github.com/kittinunf"
+  }
+}
