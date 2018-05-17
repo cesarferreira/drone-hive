@@ -1,0 +1,19 @@
+{
+  "name": "notify",
+  "description": "Simplified notification delivery for Android.",
+  "homepage": "https://github.com/Karn/notify",
+  "dependencies": [
+    {
+      "dependency": "io.karn:notify",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+    "url": "https://jitpack.io"
+  },
+  "author": {
+    "name": "Karn",
+    "webpage": "https://github.com/Karn"
+  }
+}
