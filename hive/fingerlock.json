@@ -4,7 +4,7 @@
   "homepage": "https://github.com/aitorvs/fingerlock",
   "dependencies": [
     {
-      "dependency": "com.github.aitorvs.fingerlock:core:",
+      "dependency": "com.github.aitorvs.fingerlock:core",
       "compileType": "implementation"
     }
   ],
