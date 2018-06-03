@@ -9,6 +9,6 @@
     }
   ],
   "repository": {
-    "server": "maven",
+    "server": "maven"
   }
 }
