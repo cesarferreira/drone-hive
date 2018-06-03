@@ -1,0 +1,14 @@
+{
+  "name": "spek",
+  "description": "A specification framework for Kotlin",
+  "homepage": "https://github.com/spekframework/spek",
+  "dependencies": [
+    {
+      "dependency": "org.jetbrains.spek:spek-api",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "maven",
+  }
+}
