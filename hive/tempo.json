@@ -1,0 +1,16 @@
+{
+    "name": "tempo",
+    "description": "An intuitive Date extensions in Kotlin",
+    "homepage": "https://github.com/cesarferreira/tempo",
+    "dependencies": [{
+        "dependency": "com.github.cesarferreira:tempo",
+        "compileType": "implementation"
+    }],
+    "repository": {
+        "server": "jcenter"
+    },
+    "author": {
+        "name": "cesarferreira",
+        "webpage": "https://github.com/cesarferreira/"
+    }
+}
